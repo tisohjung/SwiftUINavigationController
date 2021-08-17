@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9F7CF2C226CB0AB600AB6008 /* RouterReducer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7CF2C126CB0AB600AB6008 /* RouterReducer.swift */; };
 		9F7CF2C426CB2C5400AB6008 /* TCAContent1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7CF2C326CB2C5400AB6008 /* TCAContent1.swift */; };
+		9F7CF2C626CB846400AB6008 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9F7CF2C526CB846400AB6008 /* README.md */; };
 		9FD6EBEB26C6019500B23EDB /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD6EBEA26C6019500B23EDB /* App.swift */; };
 		9FD6EBED26C6019500B23EDB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD6EBEC26C6019500B23EDB /* ContentView.swift */; };
 		9FD6EBEF26C6019700B23EDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FD6EBEE26C6019700B23EDB /* Assets.xcassets */; };
@@ -44,6 +45,7 @@
 /* Begin PBXFileReference section */
 		9F7CF2C126CB0AB600AB6008 /* RouterReducer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouterReducer.swift; sourceTree = "<group>"; };
 		9F7CF2C326CB2C5400AB6008 /* TCAContent1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCAContent1.swift; sourceTree = "<group>"; };
+		9F7CF2C526CB846400AB6008 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9FD6EBE726C6019500B23EDB /* SwiftUINavigationController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUINavigationController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD6EBEA26C6019500B23EDB /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		9FD6EBEC26C6019500B23EDB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 		9FD6EBDE26C6019500B23EDB = {
 			isa = PBXGroup;
 			children = (
+				9F7CF2C526CB846400AB6008 /* README.md */,
 				9FD6EBE926C6019500B23EDB /* SwiftUINavigationController */,
 				9FD6EBFB26C6019700B23EDB /* SwiftUINavigationControllerTests */,
 				9FD6EC0626C6019700B23EDB /* SwiftUINavigationControllerUITests */,
@@ -283,6 +286,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F7CF2C626CB846400AB6008 /* README.md in Resources */,
 				9FD6EBF226C6019700B23EDB /* Preview Assets.xcassets in Resources */,
 				9FD6EBEF26C6019700B23EDB /* Assets.xcassets in Resources */,
 			);
